@@ -58,9 +58,10 @@
 ## [Javascript](/js/main.js)
 
 
+> JavaScript is the programming language of HTML and the Web.
 >
->
->
+> JavaScript is easy to learn.
+
 
 
 ### `Javascript Code Syntex` :
