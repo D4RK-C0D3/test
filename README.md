@@ -6,6 +6,7 @@
 
 ## [HTML](/html/index.html) :
 
+
 > HTML is the standard markup language for Web pages.
 >
 > With HTML you can create your own Website.
@@ -17,6 +18,7 @@
 
 
 ```html
+
 
 <!DOCTYPE html>
 <html>
@@ -30,6 +32,43 @@
 
     </body>
 </html>
+
+
+```
+
+## [CSS](/css/style.css)
+
+
+>
+>
+>
+
+
+### `CSS Code Syntex` :
+
+
+```css
+
+
+
+
+```
+
+
+## [Javascript](/js/main.js)
+
+
+>
+>
+>
+
+
+### `Javascript Code Syntex` :
+
+
+```javascript
+
+
 
 
 ```
