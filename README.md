@@ -39,9 +39,9 @@
 ## [CSS](/css/style.css)
 
 
+> CSS is a language that describes the style of an HTML document.
 >
->
->
+> CSS describes how HTML elements should be displayed.
 
 
 ### `CSS Code Syntex` :
@@ -50,6 +50,19 @@
 ```css
 
 
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 
 
 ```
