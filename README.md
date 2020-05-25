@@ -18,13 +18,16 @@
 
 ```html
 
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
-        <title> Hello, World in HTML </title>
+        <title>Page Title</title>
     </head>
     <body>
-        <h1>Hello, World !!!</h1>
+
+        <h1>This is a Heading</h1>
+        <p>This is a paragraph.</p>
+
     </body>
 </html>
 
