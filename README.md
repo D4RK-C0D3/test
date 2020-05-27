@@ -51,7 +51,7 @@
 
 
 body {
-  background-color: lightblue;
+  background-color: dodgerblue;
 }
 
 h1 {
